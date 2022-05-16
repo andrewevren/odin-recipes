@@ -1,0 +1,25 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    color:cornflowerblue;
+}
+
+img {
+    height:auto;
+    width: 350px;
+}
+
+h2 {
+    font-size: 24 px;
+}
+
+.description {
+    background-color: aqua;
+}
+
+.description p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
